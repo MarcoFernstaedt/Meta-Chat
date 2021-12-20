@@ -10,13 +10,13 @@ function Login() {
             <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center space-y-4">
                 <Image
                     className="object-cover rounded-full"
-                    src="http://links.papareact.com/3pi"
+                    src="https://thumbs.dreamstime.com/b/ethereum-crypto-currency-logo-over-abstract-low-poly-background-d-render-ethereum-currency-logo-d-illustration-111600303.jpg"
                     height={200}
                     width={200}
                 />
                 <button
                     onClick={() => authenticate()}
-                    className="bg-yellow-500 rounded-lg p-5 text-bold animate-pulse">
+                    className="bg-blue-700 rounded-lg p-5 text-bold animate-pulse">
                     Login to the METAVERSE
                 </button>
             </div>
@@ -33,3 +33,4 @@ function Login() {
 }
 
 export default Login;
+// https://links.papareact.com/55n 3pi
