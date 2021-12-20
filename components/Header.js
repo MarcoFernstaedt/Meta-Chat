@@ -14,7 +14,7 @@ const Header = () => {
                         layout="fill"
                         objectfit="cover"
                         className="rounded-full"
-                        src="https://links.papareact.com/3pi"
+                        src="https://thumbs.dreamstime.com/b/ethereum-crypto-currency-logo-over-abstract-low-poly-background-d-render-ethereum-currency-logo-d-illustration-111600303.jpg"
                     />
                 </div>
                 <dic className="col-span-4 text-left lg:text-center">
