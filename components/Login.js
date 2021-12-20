@@ -6,7 +6,7 @@ function Login() {
 
     return (
         <div className="bg-black relative text-white">
-            <h1>I am the login scren</h1>
+            <h1>WELCOME TO THE METAVERSE</h1>
             <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center space-y-4">
                 <Image
                     className="object-cover rounded-full"
